@@ -1,0 +1,2 @@
+# huggingface_b3kadai
+HuggingFace で提供されているLLMの利用の演習
